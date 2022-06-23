@@ -18,3 +18,5 @@ Elementary demo of a script that I used to do high-level data checks on a fundam
 
 ### 4.MiscDemo
 Statistical Risk Model Class
+
+Webscraping script that scrapes "https://www.sharenet.co.za/v3/sens.php". I have set it to combine into output, a pd dataframe, but this script is actually part of a bigger system that updates a SQLite database
